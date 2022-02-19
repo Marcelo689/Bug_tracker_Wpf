@@ -1,0 +1,230 @@
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.exe
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.deps.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.baml
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.g.resources
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CopyComplete
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Build.Engine.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.lref
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.exe
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.deps.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.dev.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Build.Engine.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.lref
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.g.resources
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfo.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CopyComplete
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.genruntimeconfig.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.baml
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.lref
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.exe
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.deps.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Build.Engine.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.baml
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.baml
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.baml
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.g.resources
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CopyComplete
+C:\Users\Usuario\Documents\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.genruntimeconfig.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.exe
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.deps.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.runtimeconfig.dev.json
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Build.Engine.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker_MarkupCompile.lref
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaEditarView.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TelaPrincipal.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\View\TesteView.baml
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.g.resources
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.AssemblyInfo.cs
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.csproj.CopyComplete
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.dll
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.pdb
+C:\Users\marce\Documents\Bug tracker\Bug tracker\Bug tracker\Bug tracker\obj\Debug\netcoreapp3.1\Bug_tracker.genruntimeconfig.cache

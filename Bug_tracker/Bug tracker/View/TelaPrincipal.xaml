@@ -1,0 +1,112 @@
+﻿<Window x:Class="Bug_tracker.View.TelaPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:viewmodel="clr-namespace:Bug_tracker.ViewModel"
+        d:DataContext="{d:DesignInstance Type=viewmodel:TelaPrincipalViewModel}"
+        mc:Ignorable="d"
+        Title="TelaPrincipal" Height="450" Width="800">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding ListarBugs}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBox">
+                <Setter Property="Margin" Value="10,0,10,10"/>
+                <Setter Property="VerticalAlignment" Value="Top"/>
+            </Style>
+            <Style TargetType="TextBlock">
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="VerticalAlignment" Value="Bottom"/>
+                <Setter Property="Margin" Value="20,0,0,0"/>
+            </Style>
+        </Grid.Resources>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Prioridade" Grid.Row="1"  Grid.Column="1" />
+        <ComboBox Grid.Row="2"
+                  Grid.Column="1"
+                  Height="30" 
+                  VerticalAlignment="Top"
+                  SelectedValue="{Binding Bug.Prioridade}"
+                  ItemsSource="{Binding Prioridades}"/>
+        <TextBlock Text="Autor" Grid.Row="1" Grid.Column="2"/>
+        <TextBox  Height="30" Text="{Binding Bug.Autor}" Grid.Row="2" Grid.Column="2"/>
+        <TextBlock Text="Versão" Grid.Row="1" Grid.Column="3"/>
+        <TextBox  Height="30" Text="{Binding Bug.Versao}" Grid.Row="2" Grid.Column="3"/>
+        <TextBlock Text="Comentário" Grid.Row="1" Grid.Column="4"/>
+        <StackPanel Grid.Row="2" Grid.Column="4">
+            <TextBox Height="78" Text="{Binding Bug.Comentario}" TextWrapping="Wrap" />
+        </StackPanel>
+        <TextBlock   Grid.Row="1" Grid.Column="5" Text="Descrição"/>
+        <StackPanel Grid.Row="2"  Grid.Column="5">
+            <TextBox Height="78" Text="{Binding Bug.Descricao}" TextWrapping="Wrap" />
+        </StackPanel>
+        <TextBlock Text="Tela"  Grid.Row="1" Grid.Column="6"/>
+        <TextBox  Height="30" Text="{Binding Bug.Tela}" Grid.Row="2" Grid.Column="6"/>
+        <Button Content="Adicionar" Grid.Row="2" Grid.Column="7" Command="{Binding Adicionar}" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Grid.Column="1"  Width="70" Height="30" Grid.Row="3" Content="Filtrar" Command="{Binding Filtrar}"/>
+        <Button Grid.Column="2" Grid.ColumnSpan="2"  Width="140" Height="30" Grid.Row="3" Content="Limpar Prioridade" Command="{Binding LimparPrioridade}"/>
+        <Button Grid.Column="4" Grid.ColumnSpan="2" Width="140" Height="30" Grid.Row="3" Content="Limpar Tudo" Command="{Binding LimparCampos}"/>
+        <StackPanel Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2">
+            <Label  Content="Ordenar" Grid.ColumnSpan="3" HorizontalAlignment="Center"/>
+            <ComboBox Width="140" SelectedValue="{Binding SelectedOrder}" ItemsSource="{Binding OrdenarList}"/>
+            <ComboBox SelectedValue="{Binding CrescenteDecrescenteSelected}" ItemsSource="{Binding CrescenteDecrescenteList}" />
+            <Button Content="Ordenar" Command="{Binding Ordenar}"/>
+        </StackPanel>
+            <DataGrid Grid.Row="4"
+                  IsReadOnly="True"
+                  Grid.RowSpan="2"
+                  Grid.Column="1"
+                  Grid.ColumnSpan="8" CanUserAddRows="False"
+                  AutoGenerateColumns="False"
+                  
+                  ItemsSource="{Binding ListaBugs,UpdateSourceTrigger=PropertyChanged}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="auto" Binding="{Binding Prioridade}" Header="Prioridade"/>
+                <DataGridTextColumn Width="auto" Binding="{Binding Autor}" Header="Autor"/>
+                <DataGridTextColumn Width="auto" Binding="{Binding Versao}" Header="Versão"/>
+                <DataGridTextColumn Width="auto" Binding="{Binding Comentario}" Header="Comentário"/>
+                <DataGridTextColumn Width="auto" Binding="{Binding Descricao}" Header="Descrição"/>
+                <DataGridTextColumn Width="auto" Binding="{Binding Tela}" Header="Tela"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button CommandParameter="{Binding Id}" Command="{Binding DataContext.Deletar, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Content="Deletar"/>
+                                <Button CommandParameter="{Binding Id}" Command="{Binding DataContext.Editar, RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" Content="Editar"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+
+
+</Window>

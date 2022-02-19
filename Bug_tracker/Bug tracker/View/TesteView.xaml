@@ -1,0 +1,14 @@
+﻿<Window x:Class="Bug_tracker.View.TesteView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bug_tracker.View"
+        mc:Ignorable="d"
+        Title="TesteView" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="{Binding Nome.Nome}"/>
+        <TextBox Text="{Binding Nome.Nome,UpdateSourceTrigger=PropertyChanged}"/>
+        <Button Command="{Binding Clickar}" Content="Botão"/>
+    </StackPanel>
+</Window>
